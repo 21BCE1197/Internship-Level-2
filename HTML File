@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Tribute Website | JRD Tata</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <section class="top_section">
+          <div class="image_container">
+            <img src="C:\Users\RETHVIK MENON\OneDrive\Desktop\Internship\J.R.D._Tata_(1955).jpg" alt="tribute" />
+          </div>
+          <div>
+            <h1>J.R.D Tata</h1>
+            <h4>1904-1993</h4>
+          </div>
+        </section>
+        <section class="about_section">
+          <h2>Father of Indian Aviation</h2>
+          
+            <ul>
+                <li>
+                    JRD Tata was the first person in India to own a flying licence. He was certified on 10 February 1929, and became known as the father of Indian civil aviation. JRD Tata founded India’s first commercial airline, Tata Airlines, in 1932, which subsequently became known as Air India. 
+                </li>
+                <li>
+                    In 1929, JRD Tata received a commercial pilot licence. In 1932, Tata Airlines took to the sky. In that year, JRD Tata flew his first commercial flight. The first flight in Indian history flew from Drigh in Karachi to Madras under JRD Tata. 
+                </li>
+                <li>
+                    JRD Tata also contributed to the field of education; in 1936, he founded the Tata Institute of Social Sciences (TISS). In 1945, the Tata Institute of Fundamental Research (TIFR) and the National Centre of Performing Arts were set up. 
+                </li>
+                <li>
+                    In 1968, JRD Tata established Tata Consultancy Services as a Tata computer centre. In 1987, Titan Industries was formed. 
+                </li>
+                <li>
+                    JRD Tata received many awards throughout his lifetime. He was regarded with great respect, awarded the rank of group captain by the Indian Air Force in 1948, and was promoted to Air Commodore in 1966. JRD Tata was awarded the highest civilian award, the Bharat Ratna, in 1992. 
+                </li>
+            </ul>
+          
+        <footer>
+          <p>
+            Read more about JRD TATA on
+            <a href="https://en.wikipedia.org/wiki/J._R._D._Tata"
+              >Wikipedia.</a
+            >
+          </p>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
